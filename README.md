@@ -1,8 +1,9 @@
 # GPA-Calculator
 U Can edit it as u need and customize it.
-it follows this Grades.
+it follows this Grades
 
 A+  ---> 4 ,
+
 A   ---> 3.7 ,
 B+  ---> 3.3 ,
 B   ---> 3 ,
