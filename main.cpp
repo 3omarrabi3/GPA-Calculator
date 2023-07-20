@@ -24,9 +24,9 @@ void GPACalculator ()
         double Grade_;
         int Credits=0;
 
-        cout << "course Number "<<i+1<<" Credits.";
+        cout << "course Number "<<i+1<<" Credit Hour.";
         cin>>Credits;
-        cout << "course Number "<<i+1<<" Grade.";
+        cout << "course Number "<<i+1<<" Grade. (EX: A, A+, B, B+.........)";
         cin>>Grade;
         cout<<"\n";
 
@@ -77,7 +77,7 @@ void GPACalculator ()
 
 
     GPA = Numerator/Denominator;
-    cout<< "Ur GPA is "<<GPA<<" "<<char(1);
+    cout<< "Ur GPA is "<<GPA<<" "<<char(2);
 
 
 }
